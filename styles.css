@@ -45,7 +45,8 @@ footer {
 }
 
 .set {
-  margin: 10% 0% 10% 0%;
+  margin-top: 10%;
+  margin-bottom:10%;
 }
 
 .game-over {
