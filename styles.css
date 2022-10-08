@@ -47,6 +47,7 @@ footer {
 .set {
   margin-top:10%;
   margin-bottom:10%;
+  display:inline;
 }
 
 .game-over {
